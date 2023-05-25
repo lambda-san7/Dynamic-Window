@@ -26,11 +26,16 @@ clock = pygame.time.Clock()
 
 running = True
 
+# COMING SOON!! FAVICONS 
+
 #pygame_icon = pygame.image.load(f"").convert_alpha()
 
 #pygame.display.set_icon(None)
 
-fps = 60
+fps = 55
+
+
+
 
 while running:
     pygame.display.set_caption(title)
