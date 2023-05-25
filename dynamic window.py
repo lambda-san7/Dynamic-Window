@@ -28,7 +28,7 @@ running = True
 
 #pygame_icon = pygame.image.load(f"").convert_alpha()
 
-pygame.display.set_icon(None)
+#pygame.display.set_icon(None)
 
 fps = 60
 
